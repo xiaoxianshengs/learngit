@@ -6,5 +6,6 @@ int main()
     cout<<"Hello world!"<<endl;
     cout<<"I am fwb"<<endl;
     cout<<"yes"<<endl;
-    return 0;
+    cout<<"thanks"<<endl;
+    return 0;    
 }
